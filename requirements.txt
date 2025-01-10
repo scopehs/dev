@@ -1,0 +1,4 @@
+mysql
+lupa
+mysql-connector-python
+lightweight-charts
